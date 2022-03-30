@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RecyclerViewApp</string>
+    
+    <string-array name="Icons">
+        <item>Empty Dice</item>
+        <item>Dice 1</item>
+        <item>Dice 2</item>
+        <item>Dice 3</item>
+        <item>Dice 4</item>
+        <item>Dice 5</item>
+        <item>Dice 6</item>
+        <item>Dice 1</item>
+        <item>Dice 2</item>
+        <item>Dice 3</item>
+        <item>Dice 4</item>
+
+    </string-array>
+
+    <string-array name="Description">
+        <item>This emoji describes</item>
+        <item>This emoji describes</item>
+        <item>This emoji describes</item>
+        <item>This emoji describes</item>
+        <item>This emoji describes</item>
+        <item>This emoji describes</item>
+        <item>This emoji describes</item>
+        <item>This emoji describes</item>
+        <item>This emoji describes</item>
+        <item>This emoji describes</item>
+
+    </string-array>
+
+
+</resources>
